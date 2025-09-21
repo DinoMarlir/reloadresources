@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "reloadresources",
+	"version": "${version}",
+	"name": "Reload Resources",
+	"description": "An mod that reloads resources when you open the pause menu.",
+	"authors": [
+		"DinoMarlir"
+	],
+	"contact": {
+		"sources": "https://github.com/DinoMarlir/reloadresources"
+	},
+	"license": "GPL-3.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.github.dinomarlir.reloadresources.Entrypoint"
+		]
+	},
+	"mixins": [
+		{
+			"config": "reloadresources.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.8",
+		"java": ">=21"
+	}
+}
