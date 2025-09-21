@@ -15,7 +15,3 @@ dependencies {
     mappings(loom.officialMojangMappings())
     modImplementation("net.fabricmc:fabric-loader:0.17.2")
 }
-
-tasks.test {
-    useJUnitPlatform()
-}
