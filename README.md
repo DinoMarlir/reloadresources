@@ -33,7 +33,7 @@ A minimalistic Minecraft mod that adds a **"Reload Resources"** button to the **
 
 ## 🌍 Translations
 
-Reload Resources supports Minecraft's built-in translation system and is available in **20 languages**:
+Reload Resources supports Minecraft's built-in translation system and is available in **25 languages**:
 
 | Language | Code | Translation |
 |----------|------|-------------|
@@ -57,6 +57,11 @@ Reload Resources supports Minecraft's built-in translation system and is availab
 | 🇸🇪 Swedish | `sv_se` | Ladda om resurser |
 | 🇫🇮 Finnish | `fi_fi` | Lataa uudelleen resurssit |
 | 🇨🇿 Czech | `cs_cz` | Zdroje znovu načíst |
+| 🇭🇺 Hungarian | `hu_hu` | Újratöltés erőforrások |
+| 🇪🇸 Catalan | `ca_es` | Gencarregar recursos |
+| 🇩🇰 Danish | `da_dk` | Genindlæs ressourcer |
+| 🇬🇷 Greek | `el_gr` | Επαναφόρτωση πόρων |
+| 🇷🇸 Serbian | `sr_sp` | Ресурси поново учитати |
 
 The mod automatically detects your Minecraft language setting and displays the appropriate translation.  
 Contributions for additional languages are welcome!
