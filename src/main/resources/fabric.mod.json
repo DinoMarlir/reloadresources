@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "reloadresources",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"name": "Reload Resources",
 	"description": "An mod that reloads resources when you open the pause menu.",
 	"authors": [
